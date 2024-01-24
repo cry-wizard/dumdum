@@ -7,4 +7,4 @@ if(opertor == "+"):{
 elif(operator == "-"):{
     print(firstNumber-secondNumberue)
 }
-print("Thank Yu for you")
+print("Thanks You for you")
