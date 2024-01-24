@@ -5,5 +5,6 @@ if(opertor == "+"):{
     print(firstNumber+secondNumber)
 }
 elif(operator == "-"):{
-    print(firstNumber-secondNumber)
+    print(firstNumber-secondNumberue)
 }
+print("Thank You")
